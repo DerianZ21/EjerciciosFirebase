@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "72673936234",
+    "firebase_url": "https://holafirebase-23de2-default-rtdb.firebaseio.com",
+    "project_id": "holafirebase-23de2",
+    "storage_bucket": "holafirebase-23de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72673936234:android:d508fdb69fdab460389b13",
+        "android_client_info": {
+          "package_name": "com.edu.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72673936234-c780kjoj9o35su7i55hc75d616vsp058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtcVRJ0jMIz0AgMbSG-gNgdergFLSS38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72673936234-c780kjoj9o35su7i55hc75d616vsp058.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72673936234:android:473249d734503b09389b13",
+        "android_client_info": {
+          "package_name": "com.example.ejerciciosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72673936234-c780kjoj9o35su7i55hc75d616vsp058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtcVRJ0jMIz0AgMbSG-gNgdergFLSS38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72673936234-c780kjoj9o35su7i55hc75d616vsp058.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
